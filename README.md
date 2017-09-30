@@ -1,6 +1,6 @@
 # E2E-Pipeline-for-Predictive-Analytics
 
-This worksheet illustrates an end to end pipeline used for solving general machine learning tasks. It includes (but is not restricted to) various techniques in the following key stages: 
+This worksheet illustrates an end to end pipeline used for solving general machine learning tasks. It includes various techniques in the following key stages: 
 - Data preparation
 - Understanding the data
 - Data preprocessing
