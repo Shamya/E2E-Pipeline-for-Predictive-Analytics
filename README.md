@@ -8,4 +8,4 @@ This worksheet illustrates an end to end pipeline used for solving general machi
 - Testing model generalizability
 - Post pipeline reflection
 
-For illustration purpose, I have chosen "classification" as the task and have attached a sample data (data.csv) to run the code. But the intention is to introduce you to these stages and provide you with starter code to extend it to your problem statement. Feel free to contact me at shamya16[at]gmail[dot]com for feedback, comments and clarification.
+For illustration purpose, I have chosen "classification" as the task and have attached a sample data (data.csv) to run the code. But the intention is to introduce you to these stages and provide you with starter code to extend it to your problem statement.  For any feedback, new functionality requests or to report an issue, please create a new issue in the 'Issues' tab of this repository. Refer - https://help.github.com/articles/creating-an-issue/.
